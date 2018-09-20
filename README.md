@@ -1,3 +1,3 @@
 # BattleHack_Python
 
-This is a python version that may or may not work. It doesn't compile properly though. 
+This is the entry for a hackathon. The code controls a bot that attacks the other teams bots and forms strategic formations to reproduce. 
